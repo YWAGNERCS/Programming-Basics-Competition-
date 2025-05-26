@@ -1,11 +1,4 @@
-/*
- * Ingresar dos números entero y luego determinar y mostrar:
-    a. Si el primero es divisible por el segundo
-    b. Si el segundo es divisible por el primero
-    c. Cuál de los dos es mayor; en caso que sean iguales, mostrar mensaje adecuado
-    d. Si ambos son impares
- */
-public class Ejercicio30 {
+public class A30 {
     public static void main(String[] args) {
         int num1=10;
         int num2=5;
