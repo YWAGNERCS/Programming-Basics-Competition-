@@ -1,12 +1,4 @@
-/*
- * Determinar si un alumno aprueba o reprueba un curso sabiendo que aprobara si su promedio de tres calificaciones es mayor o igual a 17; reprueba en caso contrario.
-validación
-primera nota: 18
-segunda nota: 17
-tercera nota:19
-RPTA: Aprobado con 18.0
- */
-public class Ejercicio28 {
+public class A28 {
     public static void main(String[] args) {
         int n1=18;
         int n2=17;
