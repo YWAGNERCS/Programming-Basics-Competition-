@@ -1,9 +1,3 @@
-/*
- * Crea una función que sea capaz de detectar si existe un viernes 13 en el mes y el año indicados.
- * La función recibirá el mes y el año y retornará verdadero o falso.
- (13 de marzo de 2023 NO es viernes)
- (13 de enero de 2023 es viernes)
- */
 
 import java.time.DayOfWeek;
 import java.time.LocalDate;
