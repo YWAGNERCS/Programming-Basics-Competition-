@@ -8,7 +8,7 @@
 import java.time.DayOfWeek;
 import java.time.LocalDate;
 
-public class Ejemplo21 {
+public class E21 {
     public static void main(String[] args) {
         boolean estado=verificarViernes(2023,03);
         System.out.println(estado);
