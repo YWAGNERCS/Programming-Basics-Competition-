@@ -6,7 +6,7 @@ validación
 100 en hexadecimal es 64
 960 en hexadecimal es 3C0
  */
-public class Ejercicio22 {
+public class A22 {
     public static void main(String[] args) {
         int numero=960;
         convertirOctal(numero);
